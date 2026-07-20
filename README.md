@@ -1,1 +1,0 @@
-# eva-auto-post-bot
